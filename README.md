@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-This folder contains the solutions to the same notebook <a href="https://michaelwekesa.me/py-ment/assign.html">here</a> where you download the zip and try to solve the questions.
+This folder contains the solutions to the same notebook <a href="https://michaelwekesa.me/py-ment/assign.html">here</a> where you download the zip, unzip and try to solve the questions.
 
 
 
